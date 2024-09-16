@@ -9,7 +9,7 @@ Order to Install: Run the following commands in order to apropriate installation
     chmod +x *
     sudo ./installPerm.sh
 
-  #close the terminal, and exec:
+  #close the terminal, re-open and exec:
 
     ./installNoPerm.sh
     ./installNoPerm1.sh
