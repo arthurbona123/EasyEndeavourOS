@@ -10,7 +10,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git
 cd /usr/share/zsh-themes
 git clone https://github.com/romkatv/powerlevel10k.git
 
-pacman -S libreoffice-fresh-pt-br nmap arduino-ide pycharm-community-edition patchelf nvidia nvidia-settings lib32-nvidia-utils vim --noconfirm
+pacman -S libreoffice-fresh-pt-br nmap arduino-ide pycharm-community-edition patchelf nvidia nvidia-settings nvidia-utils vim --noconfirm
 pacman -S steam stella --noconfirm
 
 cd $HOME/Downloads
