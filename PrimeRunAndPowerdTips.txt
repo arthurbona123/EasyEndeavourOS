@@ -1,0 +1,10 @@
+Run the commnad "pacman -S prime-run", to install the optimus support, and run for apps with requires the dGPU:
+
+        prime-run <command>
+
+To improve the performance of Nvidia dGPU, check if "nvidia-powerd" is active, and run:
+
+
+        systemctl enable --now nvidia-powerd
+
+After this action, is strongly recommended reboot the system!
